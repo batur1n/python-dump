@@ -12,5 +12,7 @@ lab4.py
 ticket.py
 
 3:
+card.py
 choco.py
 decode.py
+steps.py
