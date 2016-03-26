@@ -12,6 +12,7 @@ lab4.py
 ticket.py
 
 3:
+bank.py
 card.py
 choco.py
 decode.py
