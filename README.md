@@ -17,3 +17,7 @@ card.py
 choco.py
 decode.py
 steps.py
+
+4:
+clean.py
+count.py
