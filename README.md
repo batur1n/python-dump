@@ -1,5 +1,5 @@
 1:
-fib.py
+fibonacci.py
 hello.py
 lab2_1.py
 song.py
@@ -21,3 +21,9 @@ steps.py
 4:
 clean.py
 count.py
+
+5:
+holes.py
+morse.py
+search.py
+super_fibonacci.py
