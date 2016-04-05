@@ -7,7 +7,7 @@ text = 'Test mail! Sending mail from python.'
 subj = 'Test'
 
 server = "aspmx.l.google.com"
-port = 587 
+port = 25
 user_name = "misha.baturin@gmail.com"
 user_passwd = "c,xvr510-YeS"
 
