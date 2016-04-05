@@ -27,3 +27,11 @@ holes.py
 morse.py
 search.py
 super_fibonacci.py
+
+6:
+encode.py
+letter.py
+search.py
+
+7:
+guess.py
