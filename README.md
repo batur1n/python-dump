@@ -35,3 +35,6 @@ search.py
 
 7:
 guess.py
+
+8:
+student.py
