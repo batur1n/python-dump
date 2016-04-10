@@ -38,3 +38,7 @@ guess.py
 
 8:
 student.py
+
+9:
+print_calendar.py
+sudoku.py
